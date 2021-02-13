@@ -13,4 +13,7 @@ pub fn run() {
     println!("{name} likes to play {activity}",
              name = "Michal", activity = "AirSoft");
 
+    // Placeholder traits
+    println!("Binary: {:b} HEX: {:x} Octal: {:o}", 10, 10 , 10);
+
 }
