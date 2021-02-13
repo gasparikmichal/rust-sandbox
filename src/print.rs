@@ -19,4 +19,7 @@ pub fn run() {
     // Placeholder for debug trait
     println!("{:?}", (30, true, "Hi"));
 
+    // Basic math
+    println!("10 + 10 = {}", 10 + 10);
+
 }
