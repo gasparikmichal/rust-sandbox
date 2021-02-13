@@ -16,4 +16,7 @@ pub fn run() {
     // Placeholder traits
     println!("Binary: {:b} HEX: {:x} Octal: {:o}", 10, 10 , 10);
 
+    // Placeholder for debug trait
+    println!("{:?}", (30, true, "Hi"));
+
 }
