@@ -12,4 +12,5 @@ pub fn run() {
     // Named Arguments
     println!("{name} likes to play {activity}",
              name = "Michal", activity = "AirSoft");
+
 }
